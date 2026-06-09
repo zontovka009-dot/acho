@@ -2,7 +2,7 @@ import asyncio
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "ВАШ_ТОКЕН"
+TOKEN = "8554480773:AAGMYpT1A2CMfbI78-gQ35pTlAdzZvkVUk4"
 
 CONFIRMS = [
     "Ты уверен?",
