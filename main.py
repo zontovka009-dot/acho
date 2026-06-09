@@ -3,7 +3,7 @@ import random
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "ВАШ_ТОКЕН_СЮДА"
+TOKEN = "8843772612:AAFndhGEVQDVApPamGJizAmuDNpGM8ijhUY"
 
 CONFIRMS = [
     "Ты уверен?",
